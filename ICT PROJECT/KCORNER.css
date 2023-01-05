@@ -1,0 +1,14 @@
+table {
+      border-style: double; border-color: black;border-width: 2px; background-color: blue;
+      }
+p { 
+  margin: 5px;
+  padding: 5px;
+  }
+
+p.ridge {border-style: inset; border-color: red; border-width: 3px; background-color: yellow}
+
+td {
+   background-color: yellow;
+   font-family: times new roman;
+   }
